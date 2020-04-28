@@ -19,7 +19,7 @@
 #include "../commall.h"
 #include <stdlib.h>
 #include "resinst.h"
-#include "strings.h"
+#include "uqmstrings.h"
 
 #include "options.h"
 #include "uqm/battle.h"

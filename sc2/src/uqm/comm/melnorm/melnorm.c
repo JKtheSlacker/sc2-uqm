@@ -18,7 +18,7 @@
 
 #include "../commall.h"
 #include "resinst.h"
-#include "strings.h"
+#include "uqmstrings.h"
 
 #include "uqm/gameev.h"
 #include "uqm/shipcont.h"
@@ -361,7 +361,7 @@ GrantTech (TechId_t techId)
 ////////////Melnorme Sales System///////////
 // This section contains code related to Melnorme sales
 
-// Many of the conversation lines in strings.h fall into groups
+// Many of the conversation lines in uqmstrings.h fall into groups
 // of sequential responses.  These structures allow those
 // responses to be interated through.
 static const int ok_buy_event_lines[] =

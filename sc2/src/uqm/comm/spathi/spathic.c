@@ -18,7 +18,7 @@
 
 #include "../commall.h"
 #include "resinst.h"
-#include "strings.h"
+#include "uqmstrings.h"
 
 #include "uqm/build.h"
 

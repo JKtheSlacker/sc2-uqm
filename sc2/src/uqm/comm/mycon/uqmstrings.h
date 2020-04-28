@@ -16,8 +16,8 @@
  *  Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
  */
 
-#ifndef UQM_COMM_MYCON_STRINGS_H_
-#define UQM_COMM_MYCON_STRINGS_H_
+#ifndef UQM_COMM_MYCON_UQMSTRINGS_H_
+#define UQM_COMM_MYCON_UQMSTRINGS_H_
 
 enum
 {
@@ -133,4 +133,4 @@ enum
 	WONT_FALL_FOR_TRICK,
 };
 
-#endif /* UQM_COMM_MYCON_STRINGS_H_ */
+#endif /* UQM_COMM_MYCON_UQMSTRINGS_H_ */

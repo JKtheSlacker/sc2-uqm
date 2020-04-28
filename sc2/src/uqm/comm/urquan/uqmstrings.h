@@ -14,8 +14,8 @@
  *  along with this program; if not, write to the Free Software
  *  Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
  */
-#ifndef UQM_COMM_URQUAN_STRINGS_H_
-#define UQM_COMM_URQUAN_STRINGS_H_
+#ifndef UQM_COMM_URQUAN_UQMSTRINGS_H_
+#define UQM_COMM_URQUAN_UQMSTRINGS_H_
 
 enum
 {
@@ -98,4 +98,4 @@ enum
 	OUT_TAKES,
 };
 
-#endif /* UQM_COMM_URQUAN_STRINGS_H_ */
+#endif /* UQM_COMM_URQUAN_UQMSTRINGS_H_ */
